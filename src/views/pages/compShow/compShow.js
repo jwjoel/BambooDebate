@@ -91,7 +91,7 @@ let rtcPrivate = {
   localAudioTrack: null,
 };
 let options = {
-  appId: "10b4d06f773d49c681b9d53519060b6a",
+  appId: "*",
   channel: "demo_channel_name",
   token: null,
   uid: localStorage.getItem("uuid"),

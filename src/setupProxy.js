@@ -3,7 +3,7 @@ let proxy = createProxyMiddleware;
 module.exports = function(app) {
   app.use(
     proxy("/yesapi", {
-      target: "https://puluter.cn",
+      target: "",
       changeOrigin: true, // needed for virtual hosted sites
       ws: true, // proxy websockets
       pathRewrite: {
