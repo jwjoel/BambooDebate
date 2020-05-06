@@ -30,7 +30,7 @@
     "history": "^4.10.1",
     "http-proxy-middleware": "^1.0.3",
     "intl-messageformat": "^7.8.4",
-    "jquery": "~3.4.1",
+    "jquery": "~3.5.1",
     "js-md5": "^0.7.3",
     "jsonwebtoken": "~8.5.1",
     "leaflet": "^1.6.0",
